@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_FristApp/static/css/main.4b65b324.css",
+    "main.js": "/React_FristApp/static/js/main.8a7d9ced.js",
+    "index.html": "/React_FristApp/index.html",
+    "main.4b65b324.css.map": "/React_FristApp/static/css/main.4b65b324.css.map",
+    "main.8a7d9ced.js.map": "/React_FristApp/static/js/main.8a7d9ced.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b65b324.css",
+    "static/js/main.8a7d9ced.js"
+  ]
+}
