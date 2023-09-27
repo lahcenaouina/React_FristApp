@@ -1,0 +1,21 @@
+
+.MainPosts {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 65px;
+    background: #f0f2f5;
+}
+.LastElement {
+    background: lightskyblue;
+}
+.Options {
+    width: 25%;
+
+}
+.Posts {
+    padding: 10px;
+
+}
+.Friends {
+    width: 30%;
+}

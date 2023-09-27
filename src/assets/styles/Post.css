@@ -1,0 +1,58 @@
+
+.LastElement {
+    background: red;
+}
+.post-card {
+    cursor: pointer;
+    margin: 6px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 700px;
+    max-height: 700px;
+    padding: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.post-image {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.username {
+    font-size: 18px;
+    margin: 8px 0;
+}
+
+.caption {
+    font-size: 16px;
+    margin: 8px 0;
+}
+
+.hashtags {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.hashtags li {
+    cursor: pointer;
+    display: inline;
+    margin-right: 8px;
+    color: #3897f0;
+}
+
+.React-items {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.React-items li {
+    cursor: pointer;
+    font-size: 23px;
+    display: inline;
+    margin-right: 20px;
+    color: #192027;
+}
+

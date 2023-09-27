@@ -1,0 +1,26 @@
+.booksSection{
+
+     margin-top: 65px;
+     background: #f0f2f5;
+     height: 95vh;
+ }
+.input-group {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+#form1 {
+    width: 100% !important;
+}
+.Results  {
+    border: 1px solid red;
+    padding: 15px;
+}
+.Results li {
+    padding: 10px;
+    background: #3897f0;
+    margin: 5px 1px;
+    border-radius: 9px;
+    color: white;
+}
